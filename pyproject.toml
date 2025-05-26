@@ -1,0 +1,10 @@
+[project]
+name = "telegram-f1-top-points-mcp-bot"
+version = "0.1.0"
+description = "Add your description here"
+readme = "README.md"
+requires-python = ">=3.12"
+dependencies = [
+    "duckduckgo-search>=8.0.2",
+    "python-telegram-bot>=22.1",
+]
