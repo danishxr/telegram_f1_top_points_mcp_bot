@@ -1,0 +1,58 @@
+2025-05-28 00:09:58,194 - send_email - INFO - App password successfully loaded from environment
+2025-05-28 00:09:58,196 - gmail_mcp_server - INFO - FastMCP server initialized with name 'F1 Email Service'
+2025-05-28 00:09:58,197 - gmail_mcp_server - INFO - Starting FastMCP server on http://localhost:8001
+2025-05-28 00:09:58,200 - FastMCP.fastmcp.server.server - INFO - Starting MCP server 'F1 Email Service' with transport 'streamable-http' on http://127.0.0.1:8001/mcp
+2025-05-28 00:09:58,223 - mcp.server.streamable_http_manager - INFO - StreamableHTTP session manager started
+2025-05-28 00:10:46,877 - mcp.server.streamable_http_manager - INFO - Created new transport with session ID: fd4c434ed7894dc2a2774569a028fe9a
+2025-05-28 00:10:46,888 - mcp.server.lowlevel.server - INFO - Processing request of type CallToolRequest
+2025-05-28 00:10:46,888 - gmail_mcp_server - INFO - Attempting to send F1 standings email to danishxr@gmail.com with CSV: /Users/dan/playground/eva_3/telegram_f1_top_points_mcp_bot/f1_standings.csv
+2025-05-28 00:10:46,888 - send_email - INFO - Preparing to send email to danishxr@gmail.com
+2025-05-28 00:10:46,888 - send_email - INFO - Attaching file: /Users/dan/playground/eva_3/telegram_f1_top_points_mcp_bot/f1_standings.csv
+2025-05-28 00:10:46,888 - send_email - INFO - Connecting to SMTP server: smtp.gmail.com:587
+2025-05-28 00:10:48,981 - send_email - INFO - Attempting to login with email: yourcoolaibro@gmail.com
+2025-05-28 00:10:52,324 - send_email - INFO - Email sent successfully!
+2025-05-28 00:10:52,531 - gmail_mcp_server - INFO - Email successfully sent to danishxr@gmail.com
+2025-05-28 00:10:52,541 - mcp.server.streamable_http - INFO - Terminating session: fd4c434ed7894dc2a2774569a028fe9a
+2025-05-28 00:11:31,434 - mcp.server.streamable_http_manager - INFO - StreamableHTTP session manager shutting down
+2025-05-28 00:20:47,711 - send_email - INFO - App password successfully loaded from environment
+2025-05-28 00:20:47,713 - gmail_mcp_server - INFO - FastMCP server initialized with name 'F1 Email Service'
+2025-05-28 00:20:47,714 - gmail_mcp_server - INFO - Starting FastMCP server on http://localhost:8001
+2025-05-28 00:20:47,718 - FastMCP.fastmcp.server.server - INFO - Starting MCP server 'F1 Email Service' with transport 'streamable-http' on http://127.0.0.1:8001/mcp
+2025-05-28 00:20:47,736 - mcp.server.streamable_http_manager - INFO - StreamableHTTP session manager started
+2025-05-28 00:21:41,734 - mcp.server.streamable_http_manager - INFO - Created new transport with session ID: 4cc612353daf448396b226759130a150
+2025-05-28 00:21:41,744 - mcp.server.lowlevel.server - INFO - Processing request of type CallToolRequest
+2025-05-28 00:21:41,745 - gmail_mcp_server - INFO - Attempting to send F1 standings email to danishxr@gmail.com with CSV: /Users/dan/playground/eva_3/telegram_f1_top_points_mcp_bot/f1_standings.csv
+2025-05-28 00:21:41,745 - send_email - INFO - Preparing to send email to danishxr@gmail.com
+2025-05-28 00:21:41,745 - send_email - INFO - Attaching file: /Users/dan/playground/eva_3/telegram_f1_top_points_mcp_bot/f1_standings.csv
+2025-05-28 00:21:41,745 - send_email - INFO - Connecting to SMTP server: smtp.gmail.com:587
+2025-05-28 00:21:44,479 - send_email - INFO - Attempting to login with email: yourcoolaibro@gmail.com
+2025-05-28 00:21:47,136 - send_email - INFO - Email sent successfully!
+2025-05-28 00:21:47,342 - gmail_mcp_server - INFO - Email successfully sent to danishxr@gmail.com
+2025-05-28 00:21:47,355 - mcp.server.streamable_http - INFO - Terminating session: 4cc612353daf448396b226759130a150
+2025-05-28 00:52:48,764 - mcp.server.streamable_http_manager - INFO - Created new transport with session ID: f850f63142874843926aa7b0197b1e03
+2025-05-28 00:52:48,780 - mcp.server.lowlevel.server - INFO - Processing request of type CallToolRequest
+2025-05-28 00:52:48,781 - gmail_mcp_server - INFO - Attempting to send F1 standings email to danishxr@gmail.com with CSV: /Users/dan/playground/eva_3/telegram_f1_top_points_mcp_bot/f1_standings.csv
+2025-05-28 00:52:48,782 - send_email - INFO - Preparing to send email to danishxr@gmail.com
+2025-05-28 00:52:48,782 - send_email - INFO - Attaching file: /Users/dan/playground/eva_3/telegram_f1_top_points_mcp_bot/f1_standings.csv
+2025-05-28 00:52:48,782 - send_email - INFO - Connecting to SMTP server: smtp.gmail.com:587
+2025-05-28 00:52:50,692 - send_email - INFO - Attempting to login with email: yourcoolaibro@gmail.com
+2025-05-28 00:52:53,354 - send_email - INFO - Email sent successfully!
+2025-05-28 00:52:53,555 - gmail_mcp_server - INFO - Email successfully sent to danishxr@gmail.com
+2025-05-28 00:52:53,566 - mcp.server.streamable_http - INFO - Terminating session: f850f63142874843926aa7b0197b1e03
+2025-05-28 00:53:28,637 - mcp.server.streamable_http_manager - INFO - StreamableHTTP session manager shutting down
+2025-05-28 01:03:18,842 - send_email - INFO - App password successfully loaded from environment
+2025-05-28 01:03:18,843 - gmail_mcp_server - INFO - FastMCP server initialized with name 'F1 Email Service'
+2025-05-28 01:03:18,845 - gmail_mcp_server - INFO - Starting FastMCP server on http://localhost:8001
+2025-05-28 01:03:18,848 - FastMCP.fastmcp.server.server - INFO - Starting MCP server 'F1 Email Service' with transport 'streamable-http' on http://127.0.0.1:8001/mcp
+2025-05-28 01:03:18,867 - mcp.server.streamable_http_manager - INFO - StreamableHTTP session manager started
+2025-05-28 01:03:52,392 - mcp.server.streamable_http_manager - INFO - Created new transport with session ID: b0aa985e557640fc884100f73f259171
+2025-05-28 01:03:52,404 - mcp.server.lowlevel.server - INFO - Processing request of type CallToolRequest
+2025-05-28 01:03:52,405 - gmail_mcp_server - INFO - Attempting to send F1 standings email to danishxr@gmail.com with CSV: /Users/dan/playground/eva_3/telegram_f1_top_points_mcp_bot/f1_standings.csv
+2025-05-28 01:03:52,405 - send_email - INFO - Preparing to send email to danishxr@gmail.com
+2025-05-28 01:03:52,405 - send_email - INFO - Attaching file: /Users/dan/playground/eva_3/telegram_f1_top_points_mcp_bot/f1_standings.csv
+2025-05-28 01:03:52,405 - send_email - INFO - Connecting to SMTP server: smtp.gmail.com:587
+2025-05-28 01:03:54,330 - send_email - INFO - Attempting to login with email: yourcoolaibro@gmail.com
+2025-05-28 01:03:56,924 - send_email - INFO - Email sent successfully!
+2025-05-28 01:03:57,128 - gmail_mcp_server - INFO - Email successfully sent to danishxr@gmail.com
+2025-05-28 01:03:57,139 - mcp.server.streamable_http - INFO - Terminating session: b0aa985e557640fc884100f73f259171
+2025-05-28 01:04:29,657 - mcp.server.streamable_http_manager - INFO - StreamableHTTP session manager shutting down
